@@ -21,3 +21,5 @@
                 <li><a href="index.php?act=thongke">Thống kê</a></li>
             </ul>
         </div>
+        </body>
+</html>
